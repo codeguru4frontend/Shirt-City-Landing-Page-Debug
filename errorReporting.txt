@@ -1,0 +1,52 @@
+ERROR REPORT - LEVEL 1, BRONZE
+==============================
+
+Below you will write your debugging report by answering the following questions about the 4 errors you found.
+
+-----------------------------------------------------------------------
+
+ERROR 1
+=======
+
+1. What line did you find the error?
+
+line 11
+
+2. What was the error and how did you fix it?
+
+The scr attribute value of image tag extension was wrong an I fixed it by replaing it with shirt.png
+
+ERROR 2
+=======
+
+1. What line did you find the error?
+
+line 15
+
+2. What was the error and how did you fix it?
+
+ The header tag used was h6, which was tining and I fixed it by using header tag h2 
+
+ERROR 3
+=======
+
+1. What line did you find the error?
+
+Line 17
+
+2. What was the error and how did you fix it?
+
+the tag used was wrong which was <paragragh
+> for open tag and </paragragh
+>. These were corrected by using the open tag <p> and close </p>
+
+ERROR 4
+=======
+
+1. What line did you find the error?
+
+Line 19
+
+2. What was the error and how did you fix it?
+
+The close tag was wrong, p was not included in the close tag and this was corrected by adding p to the close tag to make it </p>
